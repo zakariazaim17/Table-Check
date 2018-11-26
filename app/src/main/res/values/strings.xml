@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demo 0.</string>
+    <string name="text1">Start your Reservation</string>
+    <string name="Input1">Type your Name</string>
+    <string name="Button_send">send</string>
+    <string name="Text2">TABLE CHECK</string>
+    <string name="qw">qw</string>
+</resources>
