@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">switch app 2.</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text1">Welcome to your platform reservation</string>
+    <string name="text2">Book your seat/table and Save Time!</string>
+    <string name="button">START</string>
+    <string name="todo">TODO</string>
+    <string name="text3">Table Check</string>
+    <string name="text4">Input your name</string>
+    <string name="text5">Input your phone number</string>
+    <string name="text6"></string>
+</resources>
