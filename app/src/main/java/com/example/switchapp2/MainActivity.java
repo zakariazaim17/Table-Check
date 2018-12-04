@@ -158,7 +158,7 @@ public class MainActivity extends AppCompatActivity {
             // Show 3 total pages.
             return 2;
         }
-        public void sendMesage(View view){
+        public void sendMesage(View v){
             Intent intent =new Intent(MainActivity.this,DisplayIntro.class);
             startActivity(intent);
         }
